@@ -1,7 +1,7 @@
 body {
-	background: #233034;
+	background: #2E2719;
 	font-family: 'Raleway', sans-serif;
-	color: #A8E1FF;
+	color: #EBE4AD;
 	letter-spacing: 1.5px;
 }
 
@@ -30,8 +30,8 @@ h2 {
 
 input, button {
 	background-color: transparent;
-	border: 1px solid #A8E1FF;
-    color: #A8E1FF;
+	border: 1px solid #EBE4AD;
+    color: #EBE4AD;
     line-height: 37px;
     font-size: 25px;
     font-family: inherit;
@@ -39,13 +39,13 @@ input, button {
 }
 
 button:hover {
-	background-color: #A8E1FF;
+	background-color: #EBE4AD;
 	color: #233034;
 	cursor: pointer;
 }
 
 button {	
-	width: 220px;
+	width: 260px;
     height: 40px;
     margin: 40px 0;
 }
